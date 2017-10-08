@@ -15,5 +15,7 @@ El proceso es bastante rapido y se pueden generar cientos de audios en cuestion 
 Disculpas lo escueto del istructivo, me pueden contactar cualquier duda.
 
 Dejo un link a mi canal de youtube
+
 https://www.youtube.com/channel/UCf588PvGJlRPjbiru0msyPw
+
 Saludos
