@@ -14,7 +14,7 @@ El proceso es bastante rapido y se pueden generar cientos de audios en cuestion 
 
 Disculpas lo escueto del istructivo, me pueden contactar cualquier duda.
 
-Review
+Revisión:
 2017-11-04
 Nueva Version archovs de 6 caracteres para version OpenTX 2.2 y se resuelven problemas de algunos archivos con nombre repetido agrandando asi la cantidad de archivos de audio.
 
